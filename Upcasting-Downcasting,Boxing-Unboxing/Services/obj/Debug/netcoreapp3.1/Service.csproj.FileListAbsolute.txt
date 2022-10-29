@@ -1,0 +1,10 @@
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\bin\Debug\netcoreapp3.1\Service.deps.json
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.csproj.AssemblyReference.cache
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.dll
+C:\Users\Anar\Desktop\Upcasting-Downcasting.Boxing,Unboxing,Implicit,Explicit\Upcasting-Downcasting,Boxing-Unboxing\Services\obj\Debug\netcoreapp3.1\Service.pdb
